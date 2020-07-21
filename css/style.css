@@ -9221,6 +9221,15 @@ textarea.form-control {
       color: #F4A919;
     }
 
+    #owl-demo .item{
+      margin: 3px;
+    }
+    #owl-demo .item img{
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
 .photo_gallery {
       padding-bottom: 100px;
 }
