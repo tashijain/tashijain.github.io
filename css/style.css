@@ -9182,6 +9182,12 @@ textarea.form-control {
     -webkit-box-shadow: 0 0 0 0 rgba(62, 100, 255, 0);
     box-shadow: 0 0 0 0 rgba(62, 100, 255, 0); } }
 
+    #owl-demo .item img{
+      display: block;
+      width: 100%;
+      height: auto;
+  }
+
     /* .owl-carousel .owl-nav div {
       background: transparent;
       height: 54px;
