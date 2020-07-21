@@ -269,16 +269,19 @@
     fixedContentPos: false
   });
 
-  $("#owl-demo").owlCarousel({
+  $(document).ready(function() {
  
-	autoPlay: 3000, //Set AutoPlay to 3 seconds
-
-	items : 4,
-	itemsDesktop : [1199,3],
-	itemsDesktopSmall : [979,3]
-
-});
-
+	$("#owl-demo").owlCarousel({
+   
+		autoPlay: 3000, //Set AutoPlay to 3 seconds
+   
+		items : 4,
+		itemsDesktop : [1199,3],
+		itemsDesktopSmall : [979,3]
+   
+	});
+   
+  });
 //   $('.photo_gallery_active').owlCarousel({
 // 	loop:true,
 // 	margin:30,
