@@ -9154,14 +9154,6 @@ textarea.form-control {
   .media .ftco-icon span {
     color: #3e64ff; }
 
-.carousel-item img {
-    display: block;
-    max-width:230px;
-    max-height:95px;
-    width: auto;
-    height: auto;
-}
-
 .carousel-control-next-icon {
   color: #3e64ff;
 }
