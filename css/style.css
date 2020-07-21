@@ -5275,6 +5275,13 @@ a.close.disabled {
   color: #fff;
   text-align: center; }
 
+#carousel-img {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+}
+
 @-webkit-keyframes spinner-border {
   to {
     -webkit-transform: rotate(360deg);
@@ -9154,9 +9161,29 @@ textarea.form-control {
   .media .ftco-icon span {
     color: #3e64ff; }
 
-.carousel-control-next-icon {
-  color: #3e64ff;
-}
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      height: 100px;
+      width: 100px;
+      outline: #3e64ff;
+      background-size: 100%, 100%;
+      border-radius: 50%;
+      border: 1px solid #a0f669;
+      background-image: none;
+    }
+    
+    .carousel-control-next-icon:after
+    {
+      content: '>';
+      font-size: 55px;
+      color: #a0f669;
+    }
+    
+    .carousel-control-prev-icon:after {
+      content: '<';
+      font-size: 55px;
+      color: #a0f669;
+    }
 
 #map {
   width: 100%; }
