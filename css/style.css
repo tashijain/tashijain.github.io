@@ -1952,10 +1952,6 @@ textarea.form-control {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
   box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25); }
 
-#contact-address {
-  color: #3e64ff;
-}
-
 .form-inline {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -9379,6 +9375,10 @@ textarea.form-control {
 
 .contact-section .contact-info p a {
   color: #1a1a1a; }
+
+.contact-section #contact-address {
+    color: #3e64ff !important;
+  }
 
 .contact-section .box {
   width: 100%;
