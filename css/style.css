@@ -9162,6 +9162,10 @@ textarea.form-control {
     height: auto;
 }
 
+.carousel-control-next-icon {
+  color: #3e64ff;
+}
+
 #map {
   width: 100%; }
   @media (max-width: 767.98px) {
