@@ -8703,6 +8703,10 @@ h1, h2, h3, h4, h5,
     margin-bottom: 30px;
     color: #3e64ff; }
 
+#page-six {
+  margin-bottom: 0;
+}
+
 .resume-wrap {
   width: 100%;
   margin-bottom: 30px;
