@@ -9182,7 +9182,7 @@ textarea.form-control {
     -webkit-box-shadow: 0 0 0 0 rgba(62, 100, 255, 0);
     box-shadow: 0 0 0 0 rgba(62, 100, 255, 0); } }
 
-    .owl-carousel .owl-nav div {
+    /* .owl-carousel .owl-nav div {
       background: transparent;
       height: 54px;
       left: 0px;
@@ -9297,7 +9297,7 @@ textarea.form-control {
 
 .gallery_bg_5 {
       background-image: url(../images/JPMC.png);
-}
+} */
 
 
 .heading-section {
