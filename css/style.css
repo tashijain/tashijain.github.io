@@ -9228,7 +9228,7 @@ textarea.form-control {
 .photo_gallery .single_photo_gallery {
       position: relative;
       overflow: hidden;
-      height: 380px;
+      /* height: 380px; */
 }
     
 .photo_gallery .single_photo_gallery img {
