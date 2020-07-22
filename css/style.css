@@ -5091,9 +5091,9 @@ a.close.disabled {
   -ms-touch-action: pan-y;
   touch-action: pan-y; }
 
-.carousel-inner img {
+/* .carousel-inner img {
     margin: auto;
-}
+} */
 
 .carousel-inner {
   position: relative;
@@ -5279,12 +5279,12 @@ a.close.disabled {
   color: #fff;
   text-align: center; }
 
-#cert-img {
+/* #cert-img {
   height: auto; 
   width: auto; 
   max-width: 300px !important; 
   max-height: 300px !important;
-}
+} */
 
 @-webkit-keyframes spinner-border {
   to {
@@ -6505,7 +6505,7 @@ button.bg-dark:focus {
   width: 75% !important; }
 
 .w-100 {
-  /* width: 100% !important; */
+  max-width: 100% !important;
   height: 75vh; }
 
 .w-auto {
