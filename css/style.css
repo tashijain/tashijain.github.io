@@ -6509,7 +6509,7 @@ button.bg-dark:focus {
   height: 75vh; }
 
 #cert-img {
-  height: 1500px;
+  height: 1500px !important;
 }
 
 .w-auto {
