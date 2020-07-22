@@ -8679,7 +8679,7 @@ h1, h2, h3, h4, h5,
     font-weight: 600;
     color: #3e64ff; }
 
-#contact-icon:hover .icon-linkedin, .icon-facebook, .icon-instagram, .icon-github {
+#contact-icon:hover .icon-linkedin,.icon-facebook,.icon-instagram,.icon-github {
     color: #000; }
 
 
@@ -9416,8 +9416,7 @@ textarea.form-control {
 
 #section-counter {
   position: relative;
-  z-index: 0;
-  margin-bottom: 30px; }
+  z-index: 0;}
 
 @media (max-width: 1199.98px) {
   .ftco-counter {
