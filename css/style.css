@@ -6506,11 +6506,11 @@ button.bg-dark:focus {
 
 .w-100 {
   max-width: 100% !important;
-  height: 75vh; }
-
+  /* height: 75vh; } */
+/* 
 #cert-img {
   height: 1500px !important;
-}
+} */
 
 .w-auto {
   width: auto !important; }
