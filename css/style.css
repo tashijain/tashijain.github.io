@@ -5091,6 +5091,10 @@ a.close.disabled {
   -ms-touch-action: pan-y;
   touch-action: pan-y; }
 
+.carousel-inner img {
+    margin: auto;
+}
+
 .carousel-inner {
   position: relative;
   width: 100%;
