@@ -6505,7 +6505,8 @@ button.bg-dark:focus {
   width: 75% !important; }
 
 .w-100 {
-  max-width: 100% !important;
+  width: 100% !important;
+}
   /* height: 75vh; } */
 /* 
 #cert-img {
@@ -8934,7 +8935,8 @@ h1, h2, h3, h4, h5,
 .ftco-hireme {
   background: #3e64ff;
   z-index: 0;
-  position: relative; }
+  position: relative;
+  margin-bottom: 30px; }
   .ftco-hireme .overlay {
     position: absolute;
     top: 0;
