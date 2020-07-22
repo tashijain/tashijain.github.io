@@ -6508,6 +6508,10 @@ button.bg-dark:focus {
   max-width: 100% !important;
   height: 75vh; }
 
+#cert-img {
+  height: 1500px;
+}
+
 .w-auto {
   width: auto !important; }
 
