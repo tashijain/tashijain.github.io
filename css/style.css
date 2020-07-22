@@ -8679,6 +8679,10 @@ h1, h2, h3, h4, h5,
     font-weight: 600;
     color: #3e64ff; }
 
+#contact-icon:hover .icon-linkedin, .icon-facebook, .icon-instagram, .icon-github {
+    color: #fff; }
+
+
 #navi {
   top: 180px;
   position: -webkit-sticky;
@@ -8935,8 +8939,7 @@ h1, h2, h3, h4, h5,
 .ftco-hireme {
   background: #3e64ff;
   z-index: 0;
-  position: relative;
-  margin-bottom: 30px; }
+  position: relative; }
   .ftco-hireme .overlay {
     position: absolute;
     top: 0;
@@ -9413,7 +9416,8 @@ textarea.form-control {
 
 #section-counter {
   position: relative;
-  z-index: 0; }
+  z-index: 0;
+  margin-bottom: 30px; }
 
 @media (max-width: 1199.98px) {
   .ftco-counter {
