@@ -8945,8 +8945,8 @@ h1, h2, h3, h4, h5,
 .ftco-hireme {
   background: #3e64ff;
   z-index: 0;
-  position: relative; 
-  margin-top: 30px !important;}
+  position: relative; }
+  /* margin-top: 30px !important;} */
   .ftco-hireme .overlay {
     position: absolute;
     top: 0;
