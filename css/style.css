@@ -10666,6 +10666,19 @@ body.menu-show {
   width: 100%;
 }
 
+#project-link {
+  color: #fff !important;
+}
+
+#project-link:hover {
+  color: #a0f669 !important;
+}
+
+#project-list {
+  list-style: none !important;
+  display: inline !important;
+}
+
 a {
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
