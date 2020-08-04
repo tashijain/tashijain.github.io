@@ -10675,6 +10675,10 @@ body.menu-show {
   display: inline !important;
 }
 
+.project.img {
+  width: 100%;
+}
+
 a {
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
@@ -11673,7 +11677,7 @@ h5,
 .project {
   width: 100%;
   height: 350px;
-  margin-bottom: 0;
+  margin-bottom: 40px;
   position: relative;
   z-index: 0;
 }
