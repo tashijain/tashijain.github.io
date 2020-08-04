@@ -10674,11 +10674,6 @@ body.menu-show {
   color: #a0f669 !important;
 }
 
-#project-list {
-  list-style: none !important;
-  display: inline !important;
-}
-
 a {
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
