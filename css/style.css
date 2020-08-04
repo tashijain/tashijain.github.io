@@ -10670,6 +10670,10 @@ body.menu-show {
   color: #fff !important;
 }
 
+#project-link:hover {
+  color: #a0f669 !important;
+}
+
 #project-list {
   list-style: none !important;
   display: inline !important;
@@ -11683,6 +11687,8 @@ h5,
 }
 .project.img-2 {
   height: 600px;
+  width: 100%;
+  object-fit: cover;
 }
 @media (max-width: 767.98px) {
   .project.img-2 {
