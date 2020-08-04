@@ -10679,10 +10679,6 @@ body.menu-show {
   display: inline !important;
 }
 
-.project.img {
-  width: 100%;
-}
-
 a {
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
