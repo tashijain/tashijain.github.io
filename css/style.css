@@ -11339,6 +11339,10 @@ h5,
   color: #000;
 }
 
+#contact-icon:hover .icon-envelope {
+  color: #000;
+}
+
 #navi {
   top: 180px;
   position: -webkit-sticky;
