@@ -11645,6 +11645,7 @@ h5,
   background: #3e64ff;
   z-index: 0;
   position: relative;
+  margin-top: 30px !important;
 }
 /* margin-top: 30px !important;} */
 .ftco-hireme .overlay {
